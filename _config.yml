@@ -3,17 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: LJC's Blog
 subtitle: ''
 description: ''
-keywords:
-author: John Doe
-language: en
-timezone: ''
+keywords: 'ljc, blog, hexo, github, pages'
+author: john9999911
+language: zh-CN
+timezone:
 
 # URL
-## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://john9999911.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -33,7 +32,7 @@ skip_render:
 # Writing
 new_post_name: :title.md # File name of new posts
 default_layout: post
-titlecase: false # Transform title into titlecase
+titlecase: false # Transform title into title case
 external_link:
   enable: true # Open external links in new tab
   field: site # Apply to the whole site
@@ -79,8 +78,8 @@ pagination_dir: page
 
 # Include / Exclude file(s)
 ## include:/exclude: options only apply to the 'source/' folder
-include:
-exclude:
+include: []
+exclude: []
 ignore:
 
 
