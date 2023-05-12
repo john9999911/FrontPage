@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d6721dd-b33f-4676-9d9b-114e55a2884e" name="更改" comment="use links to avoid upload pictures many times">
-      <change afterPath="$PROJECT_DIR$/source/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/gpt-5-12.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/particlex/source/images/avatar-girl.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/particlex/source/js/lib/run-time.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/hello-world.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/hello-world.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/my-gallery.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/my-gallery.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/about/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/about/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/particlex/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/particlex/_config.yml" afterDir="false" />
+    <list default="true" id="3d6721dd-b33f-4676-9d9b-114e55a2884e" name="更改" comment="5-12 blog update">
+      <change beforePath="$PROJECT_DIR$/source/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +135,7 @@
       <workItem from="1683909855960" duration="1000" />
       <workItem from="1683909866214" duration="8813000" />
       <workItem from="1683918756225" duration="419000" />
-      <workItem from="1683919184322" duration="2803000" />
+      <workItem from="1683919184322" duration="3114000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1683801307477</created>
@@ -209,7 +200,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683913011750</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="5-12 blog update">
+      <created>1683922006486</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1683922006486</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -242,6 +240,7 @@
     </ignored-roots>
     <MESSAGE value="init" />
     <MESSAGE value="use links to avoid upload pictures many times" />
-    <option name="LAST_COMMIT_MESSAGE" value="use links to avoid upload pictures many times" />
+    <MESSAGE value="5-12 blog update" />
+    <option name="LAST_COMMIT_MESSAGE" value="5-12 blog update" />
   </component>
 </project>
