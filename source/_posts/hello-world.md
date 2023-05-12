@@ -3,7 +3,7 @@ title: Hello World
 date: 2023-5-12 3:45:00
 pinned: -1
 categories: 
-  - Normal
+  - 日常
 tags: 
   - Life
 description: |
