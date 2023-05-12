@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d6721dd-b33f-4676-9d9b-114e55a2884e" name="更改" comment="5-12 blog update">
-      <change beforePath="$PROJECT_DIR$/source/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/about/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/about/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/particlex/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/particlex/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/particlex/layout/layout.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/particlex/layout/layout.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/particlex/source/js/lib/run-time.js" beforeDir="false" afterPath="$PROJECT_DIR$/themes/particlex/source/js/run-time.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,24 +51,24 @@
     <option name="showMembers" value="true" />
     <option name="sortByType" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/30838/My/File/Code/FrontPage/john9999911.github.io/themes/particlex/source/images/backgrounds",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.sourceCode.其他文件类型",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/30838/My/File/Code/FrontPage/john9999911.github.io/themes/particlex/source/images/backgrounds&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.其他文件类型&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\30838\My\File\Code\FrontPage\john9999911.github.io\themes\particlex\source\images\backgrounds" />
@@ -71,14 +76,14 @@
       <recent name="C:\Users\30838\My\File\Code\FrontPage\john9999911.github.io" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\30838\My\File\Code\FrontPage\john9999911.github.io\themes\particlex\source\js" />
       <recent name="C:\Users\30838\My\File\Code\FrontPage\john9999911.github.io\themes\particlex\source\images" />
       <recent name="C:\Users\30838\My\File\Code\FrontPage\john9999911.github.io\themes\particlex\source\avatar-girl.png" />
       <recent name="C:\Users\30838\My\File\Code\FrontPage\john9999911.github.io\source\_posts" />
       <recent name="C:\Users\30838\My\File\Code\FrontPage\john9999911.github.io\themes\particlex\source\images\bkgs" />
-      <recent name="C:\Users\30838\My\File\Code\FrontPage\john9999911.github.io\source" />
     </key>
   </component>
-  <component name="RunManager" selected="Shell Script.deploy">
+  <component name="RunManager" selected="Shell Script.start">
     <configuration name="deploy" type="ShConfigurationType">
       <option name="SCRIPT_TEXT" value="" />
       <option name="INDEPENDENT_SCRIPT_PATH" value="false" />
@@ -207,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683922006486</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="5-12 blog update">
+      <created>1683927550089</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1683927550089</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -31,7 +31,7 @@ menu:
     Tags:
         name: tags
         theme: solid
-        link: /
+        link: /tags
     Gallery:
         name: images
         theme: solid
