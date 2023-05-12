@@ -4,26 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d6721dd-b33f-4676-9d9b-114e55a2884e" name="更改" comment="init">
-      <change afterPath="$PROJECT_DIR$/source/_posts/my-gallery.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/about/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/categories/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/tags/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/particlex/source/images/avatar.png" afterDir="false" />
+    <list default="true" id="3d6721dd-b33f-4676-9d9b-114e55a2884e" name="更改" comment="use links to avoid upload pictures many times">
+      <change afterPath="$PROJECT_DIR$/source/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/gpt-5-12.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/particlex/source/images/avatar-girl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/particlex/source/js/lib/run-time.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/_posts/hello-world.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/hello-world.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/index-page.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/particlex/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/particlex/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/my-gallery.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/my-gallery.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/about/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/about/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/particlex/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/particlex/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/particlex/source/images/avatar.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/particlex/source/images/background.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/particlex/source/images/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/themes/particlex/source/images/favicon.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Merge.Settings">
     <option name="BRANCH" value="origin/master" />
@@ -66,7 +69,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "MarkdownNavigator.Settings.Preview",
+    "settings.editor.selected.configurable": "preferences.sourceCode.其他文件类型",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -77,13 +80,14 @@
       <recent name="C:\Users\30838\My\File\Code\FrontPage\john9999911.github.io" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\30838\My\File\Code\FrontPage\john9999911.github.io\themes\particlex\source\images" />
+      <recent name="C:\Users\30838\My\File\Code\FrontPage\john9999911.github.io\themes\particlex\source\avatar-girl.png" />
       <recent name="C:\Users\30838\My\File\Code\FrontPage\john9999911.github.io\source\_posts" />
       <recent name="C:\Users\30838\My\File\Code\FrontPage\john9999911.github.io\themes\particlex\source\images\bkgs" />
       <recent name="C:\Users\30838\My\File\Code\FrontPage\john9999911.github.io\source" />
-      <recent name="C:\Users\30838\My\File\Code\FrontPage\github_io" />
     </key>
   </component>
-  <component name="RunManager" selected="Shell Script.start">
+  <component name="RunManager" selected="Shell Script.deploy">
     <configuration name="deploy" type="ShConfigurationType">
       <option name="SCRIPT_TEXT" value="" />
       <option name="INDEPENDENT_SCRIPT_PATH" value="false" />
@@ -138,7 +142,9 @@
       <workItem from="1683832372392" duration="7821000" />
       <workItem from="1683875794320" duration="11192000" />
       <workItem from="1683909855960" duration="1000" />
-      <workItem from="1683909866214" duration="2979000" />
+      <workItem from="1683909866214" duration="8813000" />
+      <workItem from="1683918756225" duration="419000" />
+      <workItem from="1683919184322" duration="2803000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1683801307477</created>
@@ -189,7 +195,21 @@
       <option name="project" value="LOCAL" />
       <updated>1683815494312</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="use links to avoid upload pictures many times">
+      <created>1683912989993</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1683912989993</updated>
+    </task>
+    <task id="LOCAL-00009" summary="use links to avoid upload pictures many times">
+      <created>1683913011750</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1683913011750</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -221,6 +241,7 @@
       <path value="$PROJECT_DIR$/themes/particlex" />
     </ignored-roots>
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="use links to avoid upload pictures many times" />
+    <option name="LAST_COMMIT_MESSAGE" value="use links to avoid upload pictures many times" />
   </component>
 </project>

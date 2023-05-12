@@ -20,4 +20,6 @@ tags:
 
 ![图片5](https://files.catbox.moe/ct1na7.jpg)
 
+- ## 卡通风
+![每日一图(5.12)](https://files.catbox.moe/71rngs.jpg)
 

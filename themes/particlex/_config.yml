@@ -31,7 +31,11 @@ menu:
     Tags:
         name: tags
         theme: solid
-        link: /tags
+        link: /
+    Gallery:
+        name: images
+        theme: solid
+        link: /2023/05/13/my-gallery/
     About:
         name: id-card
         theme: solid
