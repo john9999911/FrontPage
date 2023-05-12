@@ -2,16 +2,16 @@
 # https://github.com/theme-particlex/hexo-theme-particlex
 
 # Avatar image
-avatar: /images/avatar.jpg
+avatar: /images/avatar.png
 
 # Favicon
 favicon: /images/favicon.png
 
 # Home page background image
 background:
-    - /images/background.jpg
+    - https://www.helloimg.com/images/2023/05/13/oxrUOQ.jpg
 
-# ParticleX theme icon is adopts the Font Awesome 6
+# ParticleX theme icon adopts the Font Awesome 6
 # https://fontawesome.com
 
 # Main menu navigation
@@ -20,10 +20,6 @@ menu:
         name: house
         theme: solid
         link: /
-    About:
-        name: id-card
-        theme: solid
-        link: /about
     Archives:
         name: box-archive
         theme: solid
@@ -36,17 +32,35 @@ menu:
         name: tags
         theme: solid
         link: /tags
+    About:
+        name: id-card
+        theme: solid
+        link: /about
 
 # Side info card
 card:
     enable: true
     description: |
-        Description
-        ...
+        Welcome to my blog. I hope you can enjoy your time here (\*^▽^\*).
     iconLinks:
+        GitHub:
+            name: github
+            theme: brands
+            link: https://github.com/john9999911
+        Bilbili:
+            name: bilibili
+            theme: brands
+            link: https://space.bilibili.com/383235432
+        Leetcode:
+            name: laptop-code
+            theme: solid
+            link: https://leetcode-cn.com/u/ni-chen-ge/
+        Steam:
+            name: steam
+            theme: brands
+            link: https://steamcommunity.com/id/3083842408/
     friendLinks:
-        Argvchs: https://argvchs.github.io
-
+      { }
 # Footer info
 footer:
     since: 2023
@@ -71,7 +85,7 @@ highlight:
 
 # KaTeX math rendering
 math:
-    enable: false
+    enable: true
 
 # Image preview
 preview:
@@ -83,23 +97,23 @@ crypto:
 
 # Search
 search:
-    enable: false
+    enable: true
 
 # Giscus
 # https://github.com/giscus/giscus
 giscus:
-    enable: false
+    enable: true
     src: https://giscus.app/client.js
-    repo:
-    repoID:
-    category:
-    categoryID:
+    repo: "john9999911/john9999911.github.io"
+    repoID: "R_kgDOIzcI4A"
+    category: "Announcements"
+    categoryID: "DIC_kwDOIzcI4M4CTrko"
     mapping: pathname
     strict: 0
     reactionsEnabled: 1
     emitMetadata: 0
     inputPosition: bottom
-    theme: preferred_color_scheme
+    theme: light
     lang: zh-CN
 
 # Gitalk

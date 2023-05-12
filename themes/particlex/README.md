@@ -71,14 +71,14 @@ archive_generator:
 
 ```yaml
 # Avatar image
-avatar: /images/avatar.jpg
+avatar: /images/avatar.png
 
 # Favicon
 favicon: /images/favicon.png
 
 # Home page background image
 background:
-    - /images/background.jpg
+    - /images/background1.jpg
 ```
 
 ## 3.2. 内容配置
