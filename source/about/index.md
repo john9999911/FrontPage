@@ -31,5 +31,5 @@ function toggleHoverContent() {
 ## 关于本站
 
 <p id="run-time"></p>
-<script type="text/javascript" src="/lib/run-time.js"></script>
+<script type="text/javascript" src="/js/run-time.js"></script>
 
