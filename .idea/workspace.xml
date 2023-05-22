@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d6721dd-b33f-4676-9d9b-114e55a2884e" name="更改" comment="5-12 blog update">
+      <change afterPath="$PROJECT_DIR$/_config.landscape.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/Hexo教程-5-13.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/科研入门（1）.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/gpt-5-12.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Hexo教程-5-12.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/my-gallery.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/my-gallery.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,10 +54,11 @@
   &quot;keyToString&quot;: {
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/30838/My/File/Code/FrontPage/john9999911.github.io/themes&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -60,7 +66,7 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.其他文件类型&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -79,7 +85,7 @@
       <recent name="C:\Users\30838\My\File\Code\FrontPage\john9999911.github.io\themes\particlex\source\images\bkgs" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.server">
+  <component name="RunManager" selected="npm.deploy">
     <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -122,10 +128,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.server" />
         <item itemvalue="npm.deploy" />
-        <item itemvalue="npm.clean" />
+        <item itemvalue="npm.server" />
         <item itemvalue="npm.build" />
+        <item itemvalue="npm.clean" />
         <item itemvalue="npm.server" />
       </list>
     </recent_temporary>
@@ -155,6 +161,11 @@
       <workItem from="1683932732552" duration="1468000" />
       <workItem from="1683934362366" duration="1085000" />
       <workItem from="1683936960998" duration="4728000" />
+      <workItem from="1684738688838" duration="203000" />
+      <workItem from="1684738913997" duration="652000" />
+      <workItem from="1684741029770" duration="82000" />
+      <workItem from="1684741555342" duration="1793000" />
+      <workItem from="1684768418838" duration="3860000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1683801307477</created>
