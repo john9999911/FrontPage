@@ -35,7 +35,7 @@ menu:
     Gallery:
         name: images
         theme: solid
-        link: /2023/05/13/my-gallery/
+        link: /Share/2023/05/my-gallery/
     About:
         name: id-card
         theme: solid

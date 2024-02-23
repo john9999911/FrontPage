@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d6721dd-b33f-4676-9d9b-114e55a2884e" name="更改" comment="5-12 blog update">
-      <change afterPath="$PROJECT_DIR$/_config.landscape.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/Hexo教程-5-13.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/科研入门（1）.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/垃圾分类系统演示.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/gpt-5-12.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Hexo教程-5-12.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/my-gallery.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/my-gallery.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/hello-world.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/hello-world.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/科研入门（1）.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/科研入门1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/particlex/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/particlex/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +22,17 @@
       <list>
         <option value="JavaScript File" />
       </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
     </option>
   </component>
   <component name="Git.Merge.Settings">
@@ -40,6 +51,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2PdwfbStog6zGHgTh3Bw6T4Uegg" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -49,27 +63,31 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
     <option name="sortByType" value="true" />
+    <option name="sortKey" value="BY_TYPE" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/30838/My/File/Code/FrontPage/john9999911.github.io/themes&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "deletionFromPopupRequiresConfirmation": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/li308/My/Codes/Python",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "npm.build.executor": "Run",
+    "npm.deploy.executor": "Run",
+    "npm.server.executor": "Run",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\30838\My\File\Code\FrontPage\john9999911.github.io\themes" />
@@ -78,11 +96,11 @@
       <recent name="C:\Users\30838\My\File\Code\FrontPage\john9999911.github.io\themes\particlex\source\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\li308\My\Codes\FrontPage\public" />
       <recent name="C:\Users\30838\My\File\Code\FrontPage\john9999911.github.io\themes\particlex\source\js" />
       <recent name="C:\Users\30838\My\File\Code\FrontPage\john9999911.github.io\themes\particlex\source\images" />
       <recent name="C:\Users\30838\My\File\Code\FrontPage\john9999911.github.io\themes\particlex\source\avatar-girl.png" />
       <recent name="C:\Users\30838\My\File\Code\FrontPage\john9999911.github.io\source\_posts" />
-      <recent name="C:\Users\30838\My\File\Code\FrontPage\john9999911.github.io\themes\particlex\source\images\bkgs" />
     </key>
   </component>
   <component name="RunManager" selected="npm.deploy">
@@ -129,12 +147,19 @@
     <recent_temporary>
       <list>
         <item itemvalue="npm.deploy" />
-        <item itemvalue="npm.server" />
         <item itemvalue="npm.build" />
+        <item itemvalue="npm.server" />
         <item itemvalue="npm.clean" />
         <item itemvalue="npm.server" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13763.11" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -166,6 +191,12 @@
       <workItem from="1684741029770" duration="82000" />
       <workItem from="1684741555342" duration="1793000" />
       <workItem from="1684768418838" duration="3860000" />
+      <workItem from="1708422619618" duration="279000" />
+      <workItem from="1708422917175" duration="1404000" />
+      <workItem from="1708424342773" duration="2763000" />
+      <workItem from="1708437980919" duration="6124000" />
+      <workItem from="1708482795602" duration="1102000" />
+      <workItem from="1708491610788" duration="98000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1683801307477</created>
@@ -285,7 +316,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <ignored-roots>
       <path value="$PROJECT_DIR$/themes/particlex" />
