@@ -1,9 +1,10 @@
 ---
 title: Hexo教程-5.13
 categories: 
-    - Hexo教程
+    - 技术
+    - Hexo
 tags: 
-    - chatgpt
+    - ai
     - Hexo
     - js
     - css

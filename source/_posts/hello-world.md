@@ -4,8 +4,8 @@ date: 2023-5-12 3:45:00
 pinned: -1
 categories: 
   - 日常
-tags: 
-  - Life
+tags:
+  - 其他
 description: |
   **Welcome to lijichen's Page. This site is base on Hexo.**
 ---

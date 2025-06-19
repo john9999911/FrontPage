@@ -9,7 +9,7 @@ favicon: /images/favicon.png
 
 # Home page background image
 background:
-    - https://www.helloimg.com/images/2023/05/13/oxrUOQ.jpg
+    - /images/16839063195591.jpg
 
 # ParticleX theme icon adopts the Font Awesome 6
 # https://fontawesome.com
@@ -35,7 +35,7 @@ menu:
     Gallery:
         name: images
         theme: solid
-        link: /Share/2023/05/my-gallery/
+        link: /媒体/2023/05/my-gallery
     About:
         name: id-card
         theme: solid

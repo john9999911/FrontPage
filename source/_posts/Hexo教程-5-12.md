@@ -2,13 +2,13 @@
 title: Hexo教程-5-12
 date: 2023-05-13 03:11:04
 categories:
-    - Hexo教程
+    - 技术
+    - Hexo
 tags:
-    - chatgpt
+    - ai
     - Hexo
 description: |
     关于如何让chatgpt生成原始内容
-    ![](https://files.catbox.moe/71rngs.jpg)
 ---
 
 ## 关于如何让chatgpt生成原始内容
@@ -43,4 +43,3 @@ description: |
 > 以上是本次对话的主要内容。感谢您的提问，希望能够帮助到您。如有其他问题，欢迎继续咨询。
 
 总的来说gpt还是不错的，可以解决我的大部分问题，但是有时还脑子还是不大好使。
-![每日一图(5.12)](https://files.catbox.moe/71rngs.jpg)
