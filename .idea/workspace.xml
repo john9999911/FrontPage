@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d6721dd-b33f-4676-9d9b-114e55a2884e" name="更改" comment="6-19">
+      <change afterPath="$PROJECT_DIR$/source/_posts/LoveStory/Plan/LoveStory-Backend.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/LoveStory/Plan/LoveStory-Build.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/LoveStory/Plan/LoveStory-Build.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/LoveStory/Plan/LoveStory-ILoveYou.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/LoveStory/Plan/LoveStory-ILoveYou.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/LoveStory/Plan/LoveStory-Plan.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/LoveStory/Plan/LoveStory-Plan.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +87,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/li308/My/Codes/Web/FrontPage/source/_posts/LoveStory/TODO-LIST&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/li308/My/Codes/Web/FrontPage/source/_posts/LoveStory/Plan&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -99,11 +103,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\li308\My\Codes\Web\FrontPage\source\_posts\LoveStory\Plan" />
       <recent name="C:\Users\li308\My\Codes\Web\FrontPage\source\_posts\LoveStory\TODO-LIST" />
       <recent name="C:\Users\li308\My\Codes\Web\FrontPage\source\_posts\LoveStory\DB" />
       <recent name="C:\Users\li308\My\Codes\Web\FrontPage\source\_posts\LoveStory" />
       <recent name="C:\Users\li308\My\Codes\Web\FrontPage\source\_posts" />
-      <recent name="C:\Users\li308\My\Codes\Web\FrontPage\themes\particlex\source" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\li308\My\Codes\Web\FrontPage\source\_posts\LoveStory\DB" />
@@ -113,7 +117,7 @@
       <recent name="C:\Users\30838\My\File\Code\FrontPage\john9999911.github.io\themes\particlex\source\js" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.server">
+  <component name="RunManager" selected="npm.deploy">
     <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -156,9 +160,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.server" />
-        <item itemvalue="npm.build" />
         <item itemvalue="npm.deploy" />
+        <item itemvalue="npm.build" />
+        <item itemvalue="npm.server" />
         <item itemvalue="npm.clean" />
         <item itemvalue="npm.server" />
       </list>
@@ -209,7 +213,9 @@
       <workItem from="1708491610788" duration="98000" />
       <workItem from="1750239416688" duration="75000" />
       <workItem from="1750260927556" duration="4302000" />
-      <workItem from="1750319786321" duration="1389000" />
+      <workItem from="1750319786321" duration="1873000" />
+      <workItem from="1750355478437" duration="891000" />
+      <workItem from="1750359939210" duration="240000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1683801307477</created>
@@ -310,7 +316,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750320069620</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="6-19">
+      <option name="closed" value="true" />
+      <created>1750351527460</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1750351527460</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
